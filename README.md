@@ -7,8 +7,12 @@ Personal project utilizing Digispark Attiny85 micro USB to inject scripts into a
 ## Development Tools Used
 <li>
   <ul><a href="https://www.amazon.com/ACEIRMC-Digispark-Kickstarter-Attiny85-Development/dp/B08JGL5TSV/ref=sr_1_3?crid=2QAHQS911Q1QE&keywords=ACEIRMC+digispark+attiny85&qid=1662053746&s=electronics&sprefix=aceirmc+digispark+attiny85%2Celectronics%2C53&sr=1-3">Digispark Attiny85 Micro USB from amazon</a></ul>
-  <ul></ul>
+  <ul>Arduino IDE</ul>
+  <ul><a href="https://duckify.huhn.me/">Duckify - Ducky Script to Arduino translator</a></ul>
 </li>
+
+## Project Status
+Currently a work in progress
 
 ## DISCLAIMER
 This is for experimentation <b>ONLY</b>. These files should never be used on anything but a blank VM or a VM that is designed specifically to be tested with this project. The scripts in this project could potentially be damaging to a personal computer. 
